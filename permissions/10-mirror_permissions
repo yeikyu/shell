@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o-wx hello olleh
+chmod u-r g-w o-wx hello olleh
