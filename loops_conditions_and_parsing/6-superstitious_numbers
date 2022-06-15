@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#this command content condition while with superstitious numbers
 
 i=0
 while [ $i -le 19 ]
